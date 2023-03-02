@@ -1,6 +1,6 @@
 ## Primeira página WEB (HTML & CSS)
 
-* Primeiro página web fazendo o uso HTML e CSS, juntamente da Media Query, para fins de estudo.
+* Primeira página web fazendo o uso HTML e CSS, juntamente da Media Query, para fins de estudo.
 
 ### Página de Login de uma cafeteria 
 
